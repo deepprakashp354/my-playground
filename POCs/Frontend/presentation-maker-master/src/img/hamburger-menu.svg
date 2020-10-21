@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="15px" viewBox="0 0 20 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="mock" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bulletin-member" transform="translate(-213.000000, -23.000000)" fill="#999999" fill-rule="nonzero">
+            <g id="Group" transform="translate(213.000000, 23.000000)">
+                <path d="M1.3125,3.2255908 L18.6875,3.2255908 C19.40625,3.2255908 20,2.69293895 20,2.04814988 C20,1.4033608 19.40625,0.870708956 18.6875,0.870708956 L1.3125,0.870708956 C0.59375,0.870708956 0,1.4033608 0,2.04814988 C0,2.69293895 0.59375,3.2255908 1.3125,3.2255908 Z" id="Shape"></path>
+                <path d="M1.05,9.1127954 L10.95,9.1127954 C11.525,9.1127954 12,8.58014355 12,7.93535448 C12,7.2905654 11.525,6.75791356 10.95,6.75791356 L1.05,6.75791356 C0.475,6.75791356 0,7.2905654 0,7.93535448 C0,8.58014355 0.475,9.1127954 1.05,9.1127954 Z" id="Shape"></path>
+                <path d="M18.6875,12.6451182 L1.3125,12.6451182 C0.59375,12.6451182 0,13.17777 0,13.8225591 C0,14.4673482 0.59375,15 1.3125,15 L18.6875,15 C19.40625,15 20,14.4673482 20,13.8225591 C20,13.17777 19.40625,12.6451182 18.6875,12.6451182 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

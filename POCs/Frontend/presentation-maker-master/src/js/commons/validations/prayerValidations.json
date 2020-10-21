@@ -1,0 +1,14 @@
+{
+    "properties" : {
+        "title" : {
+            "type" : "string",
+            "isNotEmpty" : true
+            
+        },
+        "text" : {
+            "type" : "string",
+            "isNotEmpty" : true 
+        }
+    }
+    
+}

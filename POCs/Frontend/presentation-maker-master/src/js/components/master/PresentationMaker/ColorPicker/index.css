@@ -1,0 +1,27 @@
+.color-picker-container {
+    background-color: cyan;
+    display: inline;
+}
+
+.color-picker-wrapper {
+    position: relative;
+}
+
+.color-picker-colors {
+    position: absolute;
+    top : -110px;
+    left : 10px;
+    width: 310px;
+    height: 108px;
+    padding : 4px;
+    background-color: #ffffff;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.color-picker-button {
+    display: inline-block;
+    height: 50px;
+    width: 60px;
+    box-sizing: border-box;
+}

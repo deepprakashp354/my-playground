@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="198px" height="46px" viewBox="0 0 198 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="church" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="church-pricing" transform="translate(-878.000000, -477.000000)">
+            <g id="Group-3" transform="translate(878.000000, 458.000000)">
+                <g id="Group-2" transform="translate(39.814720, 38.482938) scale(1, -1) rotate(-41.000000) translate(-39.814720, -38.482938) translate(5.314720, 17.482938)" stroke="#0C4F6C">
+                    <path d="M4.54747351e-13,0.462097257 C0.905207089,26.1282364 23.3980655,38.961306 67.4785753,38.961306" id="Path-2"></path>
+                    <polyline id="Path-4" points="64.9958318 35.9674631 68.0263808 39.0102863 64.9958318 41.9875831"></polyline>
+                </g>
+                <text id="You-Save-20%" font-family="Raleway-Regular, Raleway" font-size="16" font-weight="normal" letter-spacing="1.693121" fill="#0C4F6C">
+                    <tspan x="78" y="64">You Save 20%</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

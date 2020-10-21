@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100" height="100" width="100">
+    <style>
+@keyframes Page-1_t { 0% { transform: translate(24px,23.5px); } 3.4482% { transform: translate(24px,26.5px); } 6.8965% { transform: translate(24px,29.5px); } 10.3448% { transform: translate(24px,32.5px); } 13.7931% { transform: translate(24px,35.5px); } 17.2413% { transform: translate(24px,38.5px); } 20.6896% { transform: translate(24px,41.5px); } 24.1379% { transform: translate(24px,44.5px); } 27.5862% { transform: translate(24px,41.5px); } 31.0344% { transform: translate(24px,38.5px); } 34.4827% { transform: translate(24px,35.5px); } 37.931% { transform: translate(24px,32.5px); } 41.3793% { transform: translate(24px,29.5px); } 44.8275% { transform: translate(24px,26.5px); } 48.2758% { transform: translate(24px,23.5px); } 51.7241% { transform: translate(21px,23.5px); } 55.1724% { transform: translate(18px,23.5px); } 58.6206% { transform: translate(15px,23.5px); } 62.0689% { transform: translate(12px,23.5px); } 65.5172% { transform: translate(8px,23.5px); } 68.9655% { transform: translate(5px,23.5px); } 72.4137% { transform: translate(2px,23.5px); } 75.862% { transform: translate(5px,23.5px); } 79.3103% { transform: translate(8px,23.5px); } 82.7586% { transform: translate(11px,23.5px); } 86.2068% { transform: translate(14px,23.5px); } 89.6551% { transform: translate(17px,23.5px); } 93.1034% { transform: translate(20px,23.5px); } 96.5517% { transform: translate(23px,23.5px); } 100% { transform: translate(26px,23.5px); } }
+@keyframes Page-2_t { 0% { transform: translate(24px,23.5px); } 1.0344% { transform: translate(24px,23.5px); } 3.4482% { transform: translate(24px,20.5px); } 6.8965% { transform: translate(24px,17.5px); } 10.3448% { transform: translate(24px,14.5px); } 13.7931% { transform: translate(24px,11.5px); } 17.2413% { transform: translate(24px,8.5px); } 20.6896% { transform: translate(24px,5.5px); } 24.1379% { transform: translate(24px,2.5px); } 27.5862% { transform: translate(24px,5.5px); } 31.0344% { transform: translate(24px,8.5px); } 34.4827% { transform: translate(24px,11.5px); } 37.931% { transform: translate(24px,14.5px); } 41.3793% { transform: translate(24px,17.5px); } 44.8275% { transform: translate(24px,20.5px); } 48.2758% { transform: translate(24px,23.5px); } 51.7241% { transform: translate(27px,23.5px); } 55.1724% { transform: translate(30px,23.5px); } 58.6206% { transform: translate(34px,23.5px); } 62.0689% { transform: translate(37px,23.5px); } 65.5172% { transform: translate(40px,23.5px); } 68.9655% { transform: translate(44px,23.5px); } 72.4137% { transform: translate(47px,23.5px); } 75.862% { transform: translate(44px,23.5px); } 79.3103% { transform: translate(41px,23.5px); } 82.7586% { transform: translate(38px,23.5px); } 86.2068% { transform: translate(35px,23.5px); } 89.6551% { transform: translate(32px,23.5px); } 93.1034% { transform: translate(29px,23.5px); } 96.5517% { transform: translate(26px,23.5px); } 100% { transform: translate(26px,23.5px); } }
+    </style>
+    <title>Oval</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(24,23.5)" style="animation: Page-1_t 2.9s linear infinite both;">
+        <g id="Ball-1s-200px" fill="#D30101">
+            <ellipse id="Oval" rx="12" ry="12" transform="translate(0,-0.4598) translate(26,26.9598)"/>
+        </g>
+    </g>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(24,23.5)" style="animation: Page-2_t 2.9s linear infinite both;">
+        <g id="Ball-1s-200px-2" fill="#D30101">
+            <ellipse id="Oval-2" rx="12" ry="12" transform="translate(0,-0.4598) translate(26,26.9598)"/>
+        </g>
+    </g>
+</svg>

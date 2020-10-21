@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'RobotoSlabBold';
+    src: local('RobotoSlabBold'), url(./../fonts/Roboto_Slab/RobotoSlab-Bold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'RalewayMedium';
+    src: local('RalewayMedium'), url(./../fonts/Raleway/Raleway-Medium.otf) format('truetype');
+}
+@font-face {
+    font-family: 'RobotoslabRegular';
+    src: local('RobotoslabRegular'), url(./../fonts/Roboto_Slab/RobotoSlab-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'RalewayRegular';
+    src: local('RalewayRegular'), url(./../fonts/Raleway/Raleway-Regular.otf) format('truetype');
+}
+@font-face {
+    font-family: 'RalewaySemiBold';
+    src: local('RalewaySemiBold'), url(./../fonts/Raleway/Raleway-SemiBold.otf) format('truetype');
+}
+@font-face {
+    font-family: 'RalewayBold';
+    src: local('RalewayBold'), url(./../fonts/Raleway/Raleway-Bold.otf) format('truetype');
+}
+
+/* ppt */
+@font-face {
+    font-family: 'Anton';
+    src: local('Anton'), url(./../fonts/Anton/Anton-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Caveat';
+    src: local('Caveat'), url(./../fonts/Caveat_Brush/CaveatBrush-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'HomemadeApple';
+    src: local('HomemadeApple'), url(./../fonts/Homemade_Apple/HomemadeApple-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Lemonada';
+    src: local('Lemonada'), url(./../fonts/Lemonada/Lemonada-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sansita';
+    src: local('Sansita'), url(./../fonts/Sansita/Sansita-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'TheMix';
+    src: local('TheMix'), url(./../fonts/the-mix/TheMixBold-Plain.otf) format('otf');
+}

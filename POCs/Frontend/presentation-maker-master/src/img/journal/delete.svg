@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="16px" viewBox="0 0 15 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>delete</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bible-reading-copy-2" transform="translate(-550.000000, -650.000000)" fill="#555555">
+            <g id="delete" transform="translate(550.000000, 650.000000)">
+                <path d="M14.9013158,2.30243902 L9.88815789,2.30243902 L9.88815789,0.0975609756 L4.89473684,0.0975609756 L4.89473684,2.30243902 L0.0789473684,2.30243902 L0.0789473684,2.71219512 L1.48026316,2.71219512 L2.50657895,15.9219512 L12.2960526,15.9219512 L13.3223684,2.71219512 L14.9407895,2.71219512 L14.9407895,2.30243902 L14.9013158,2.30243902 Z M5.30921053,0.487804878 L9.49342105,0.487804878 L9.49342105,2.28292683 L5.30921053,2.28292683 L5.30921053,0.487804878 Z M11.9013158,15.4926829 L2.88157895,15.4926829 L1.89473684,2.69268293 L4.89473684,2.69268293 L5.30921053,2.69268293 L9.49342105,2.69268293 L9.90789474,2.69268293 L12.9078947,2.69268293 L11.9013158,15.4926829 Z" id="Shape" fill-rule="nonzero"></path>
+                <rect id="Rectangle" x="7.18421053" y="5.1902439" width="1" height="7.86341463"></rect>
+                <polygon id="Rectangle" transform="translate(9.838728, 9.111835) rotate(3.107080) translate(-9.838728, -9.111835) " points="9.63395987 5.17048468 10.0484072 5.17022936 10.0434954 13.0531861 9.62904799 13.0534415"></polygon>
+                <polygon id="Rectangle" transform="translate(4.934976, 9.115612) rotate(86.900098) translate(-4.934976, -9.115612) " points="0.993652593 8.91084021 8.8765546 8.90593968 8.87629987 9.3203843 0.993397862 9.32528484"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="67px" viewBox="0 0 74 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3Bulletin_emptystate</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Empty-states" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bulletin_empty-state" transform="translate(-149.000000, -232.000000)">
+            <g id="Group-3" transform="translate(149.000000, 232.000000)">
+                <g id="Group-2">
+                    <rect id="Rectangle-2" fill="#B1B1B1" x="6" y="6" width="15" height="15" rx="3"></rect>
+                    <path d="M7,1.25 C3.82436269,1.25 1.25,3.82436269 1.25,7 L1.25,60 C1.25,63.1756373 3.82436269,65.75 7,65.75 L67,65.75 C70.1756373,65.75 72.75,63.1756373 72.75,60 L72.75,7 C72.75,3.82436269 70.1756373,1.25 67,1.25 L7,1.25 Z" id="Rectangle-4" stroke="#B1B1B1" stroke-width="2.5"></path>
+                    <g id="Group" transform="translate(6.000000, 25.000000)" stroke="#B1B1B1">
+                        <path d="M5,1 C2.790861,1 1,2.790861 1,5 L1,31 C1,33.209139 2.790861,35 5,35 L57,35 C59.209139,35 61,33.209139 61,31 L61,5 C61,2.790861 59.209139,1 57,1 L5,1 Z" id="Rectangle-4-Copy" stroke-width="2"></path>
+                        <circle id="Oval" fill="#B1B1B1" cx="8" cy="8" r="3"></circle>
+                        <polygon id="Path-2" fill="#B1B1B1" points="2 27.4240215 17.0619403 18.1648094 33.2699859 22.9501536 60 8 60 33.7584759 2 34"></polygon>
+                    </g>
+                    <path d="M26,7 L63,7 C64.1045695,7 65,7.8954305 65,9 L65,9 C65,10.1045695 64.1045695,11 63,11 L26,11 C24.8954305,11 24,10.1045695 24,9 L24,9 C24,7.8954305 24.8954305,7 26,7 Z" id="Rectangle-3" fill="#B1B1B1"></path>
+                    <path d="M26,14 L52,14 C53.1045695,14 54,14.8954305 54,16 L54,16 C54,17.1045695 53.1045695,18 52,18 L26,18 C24.8954305,18 24,17.1045695 24,16 L24,16 C24,14.8954305 24.8954305,14 26,14 Z" id="Rectangle-3-Copy" fill="#B1B1B1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

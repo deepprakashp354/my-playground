@@ -1,0 +1,14 @@
+{
+    "properties" : {
+        "username" : {
+            "type" : "string",
+            "maxLength" : 14,
+            "minLength" : 10
+        },
+        "phone" : {
+            "type" : "string",
+            "maxLength" : 14,
+            "minLength" : 10
+        }
+    }
+}

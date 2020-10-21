@@ -1,0 +1,50 @@
+.ppt-editor-drag-left {
+    position: absolute;
+    left: -8px;
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    background-color: lightgray;
+    cursor: ew-resize;
+    user-select: none;
+}
+
+.ppt-editor-drag-right {
+    position: absolute;
+    right : -8px;
+    width: 15px;
+    height: 15px;
+    background-color: lightgray;
+    border-radius: 100%;
+    cursor: ew-resize;
+    user-select: none;
+}
+
+.ppt-editor-drag-top {
+    position: absolute;
+    top : -8px;
+    left : 137.5px;
+    width: 15px;
+    height: 15px;
+    background-color: lightgray;
+    border-radius: 100%;
+    cursor: ns-resize;
+    user-select: none;
+}
+
+.ppt-editor-drag-bottom {
+    position: absolute;
+    bottom : -8px;
+    left : 137.5px;
+    width: 15px;
+    height: 15px;
+    background-color: lightgray;
+    border-radius: 100%;
+    cursor: ns-resize;
+    user-select: none;
+}
+
+.ppt-editor-text-editor-container {
+    transform-origin: center;
+    -webkit-transform-origin: center;
+}

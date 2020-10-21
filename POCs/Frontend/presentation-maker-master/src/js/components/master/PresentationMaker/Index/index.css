@@ -1,0 +1,160 @@
+.ppt-editor-container {
+    width: 100%;
+    height : 100%;
+    background-color: #f5f6fa;
+}
+
+.ppt-editor-tool-bar {
+    position: relative;
+    width: 100%;
+    height: 40px;
+    z-index: 999;
+    background-color: #353b48;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: #7f8fa6;
+}
+
+.ppt-editor-tools {
+    display: table;
+    width: 400px;
+    height: 100%;
+    margin-left: calc(50% - 160px);
+    background-color: #353b48;
+}
+
+.ppt-editor-toolbox-item {
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%;
+}
+
+.ppt-editor-tool-button {
+    width: 30px;
+    height: 30px;
+    background-color: #353b48;
+    box-shadow:0px 0px 6px 0px #7f8fa6;
+    padding:2px;
+    box-sizing: border-box;
+    margin-left: calc(50% - 15px);
+    text-align: center;
+    color : #ffffff;
+    cursor: pointer;
+    user-select: none;
+}
+
+.ppt-editor-tool-button:active {
+    background-color: #7f8fa6;
+}
+
+.ppt-editor-tool-button:hover {
+    box-shadow:0px 0px 14px 0px #7f8fa6;
+}
+
+.ppt-editor-body {
+    display: table;
+    width: 100%;
+    height: calc(100% - 200px);
+    background-color: lightgray;
+}
+
+.ppt-editor-trackbar {
+    display: table-cell;
+    width: 220px;
+    height: 100%;
+    background-color: #353b48;
+    overflow-y: auto; 
+}
+
+.ppt-editor-trackbar-addslide-button {
+    width: 100%;
+    height : 40px;
+    color : #ffffff;
+    text-align: center;
+    padding: 3px;
+    box-sizing: border-box;
+    height: 34px;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: #7f8fa6;
+    user-select: none;
+    cursor: pointer;
+}
+
+.ppt-editor-trackbar-addslide-button:active {
+    background-color: #7f8fa6;
+}
+
+.ppt-editor-trackbar-addslide-button:hover {
+    box-shadow:0px 0px 4px 0px #7f8fa6;
+}
+
+.ppt-editor-trackbar-slide-thumbnail-container {
+    height: 124px;
+    width: 100%;
+}
+
+.ppt-editor-trackbar-slide-thumbnail-wrapper {
+    display: table;
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
+    user-select: none;
+}
+
+.ppt-editor-trackbar-slide-thumbnail-cell {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    padding : 10px;
+}
+
+.ppt-editor-trackbar-slide-thumbnail-sno {
+    width: 30px;
+    height : 100%;
+    color : #ffffff;
+}
+
+.ppt-editor-trackbar-slide-thumbnail-item {
+    background-color: #ffffff;
+    width: 100%;
+    height: 100%;
+}
+
+.ppt-editor-slide-customizer {
+    display: table-cell;
+    height: 100%;
+    background-color: #718093;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.ppt-editor-slide-canvas {
+    width: 800px;
+    height : 540px;
+    margin-left: calc(50% - 400px);
+    background-color: #ffffff;
+    box-shadow: 0px 0px 20px 0px #353b48;
+}
+
+.ppt-editor-slide-editor {
+    width: 100%;
+    height: 160px;
+    background-color: #353b48;
+    border-style: solid;
+    border-width: 1px 0px 0px 0px;
+    border-color: #7f8fa6;
+}
+
+.ppt-add-background-image-input{
+    position: relative;
+}
+
+.ppt-add-image-input {
+    position : absolute;
+    left : 0px;
+    top : 0px;
+    opacity : 0;
+    height : 100%;
+    width : 100%;
+}

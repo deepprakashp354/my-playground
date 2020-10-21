@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="44px" viewBox="0 0 45 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="115.277778%" y1="129.350142%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#EB0202" offset="0%"></stop>
+            <stop stop-color="#D30101" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Admin_Funds" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="8-copy-5" transform="translate(-286.000000, -532.000000)">
+            <g id="Group-6" transform="translate(286.000000, 532.000000)">
+                <ellipse id="Oval-3-Copy-6" fill="url(#linearGradient-1)" cx="22.5" cy="22" rx="22.5" ry="22"></ellipse>
+                <g id="noun_Folder_588093-Copy-3" transform="translate(13.000000, 13.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#FFFFFF">
+                    <path d="M18.0548628,4.35240964 L13.2169576,4.35240964 L10.872818,0.972891566 C10.4738155,0.358433735 9.7755611,0 9.07730673,0 L2.19451372,0 C0.997506234,-4.54790155e-16 0,1.02409639 0,2.25301205 L0,15.0542169 C0,16.1295181 0.847880299,17 1.89526185,17 L18.1047382,17 C19.1521197,17 20,16.1295181 20,15.0542169 L20,6.29819277 C19.9501247,5.22289157 19.1022444,4.35240964 18.0548628,4.35240964 Z M1,2.22891566 C1,1.56325301 1.54862843,1 2.19700748,1 L9.12967581,1 C9.5286783,1 9.87780549,1.20481928 10.0773067,1.51204819 L12.0224439,4.32831325 L1,4.32831325 L1,2.22891566 Z M18.9551122,15.6777108 C18.9551122,16.189759 18.5561097,16.5993976 18.0573566,16.5993976 L1.89775561,16.5993976 C1.39900249,16.5993976 1,16.189759 1,15.6777108 L1,6 L12.9700748,6 C12.9700748,6 12.9700748,6 12.9700748,6 L18.0573566,6 C18.5561097,6 18.9551122,6.40963855 18.9551122,6.92168675 L18.9551122,15.6777108 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

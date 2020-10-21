@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="10px" viewBox="0 0 20 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>eye open</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="mock" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sign-in-via-email-copy-3" transform="translate(-534.000000, -490.000000)" fill="#333333" fill-rule="nonzero">
+            <g id="input-field-with-tex-copy" transform="translate(155.000000, 464.000000)">
+                <g id="eye-open" transform="translate(379.000000, 26.000000)">
+                    <path d="M18.7644788,5.00338983 C18.7258687,4.94237288 15.0965251,1.22033898 10,1.22033898 C4.9034749,1.22033898 1.27413127,4.94237288 1.23552124,5.00338983 L0,4.24067797 C0.154440154,4.08813559 4.13127413,0 10,0 C15.8687259,0 19.8455598,4.08813559 20,4.24067797 L18.7644788,5.00338983 Z M13.023166,6.02033898 C13.023166,4.34836562 11.6787093,3 10.011583,3 C8.3444567,3 7,4.34836562 7,6.02033898 C7,7.69231235 8.3444567,9.04067797 10.011583,9.04067797 C11.6518202,9.04067797 12.9962769,7.69231235 13.023166,6.02033898 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

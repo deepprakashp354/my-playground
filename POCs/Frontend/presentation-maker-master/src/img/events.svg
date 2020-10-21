@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="23px" viewBox="0 0 21 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>events</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="profile-copy" transform="translate(-41.000000, -321.000000)" stroke="#555555">
+            <g id="side-menu" transform="translate(42.000000, 80.000000)">
+                <g id="events" transform="translate(0.000000, 242.000000)">
+                    <g>
+                        <polygon id="Rectangle-path" stroke-width="0.6" points="3 10 5.89583333 10 5.89583333 12.8333333 3 12.8333333"></polygon>
+                        <polygon id="Rectangle-path" stroke-width="0.6" points="8 10 10.8958333 10 10.8958333 12.8333333 8 12.8333333"></polygon>
+                        <polygon id="Rectangle-path" stroke-width="0.6" points="13 10 15.8958333 10 15.8958333 12.8333333 13 12.8333333"></polygon>
+                        <polygon id="Rectangle-path" stroke-width="0.6" points="3 15 5.89583333 15 5.89583333 17.8333333 3 17.8333333"></polygon>
+                        <polyline id="Shape" stroke-width="0.6" points="10.8958333 16.875 10.8958333 17.8125 8 17.8125 8 15 10.4583333 15"></polyline>
+                        <rect id="Rectangle-path" x="0" y="3" width="19.0833333" height="17.9375"></rect>
+                        <path d="M0,7 L19.2291667,7" id="Shape"></path>
+                        <path d="M8.875,4.35416667 C8.39583333,4.35416667 8,3.95833333 8,3.47916667 L8,0.875 C8,0.395833333 8.39583333,0 8.875,0 C9.35416667,0 9.75,0.395833333 9.75,0.875 L9.75,1.8125" id="Shape" stroke-linecap="round"></path>
+                        <path d="M13.875,4.35416667 C13.3958333,4.35416667 13,3.95833333 13,3.47916667 L13,0.875 C13,0.395833333 13.3958333,0 13.875,0 C14.3541667,0 14.75,0.395833333 14.75,0.875 L14.75,1.8125" id="Shape" stroke-linecap="round"></path>
+                        <path d="M3.875,4.35416667 C3.39583333,4.35416667 3,3.95833333 3,3.47916667 L3,0.875 C3,0.395833333 3.39583333,0 3.875,0 C4.35416667,0 4.75,0.395833333 4.75,0.875 L4.75,1.8125" id="Shape" stroke-linecap="round"></path>
+                        <polyline id="Shape" stroke-width="0.6" stroke-linecap="round" points="9 16.2083333 9.70833333 16.9166667 11.625 15"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

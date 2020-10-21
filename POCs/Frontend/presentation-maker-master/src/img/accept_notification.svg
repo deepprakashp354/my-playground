@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3accept</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ios(notification)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-X" transform="translate(-287.000000, -211.000000)" fill-rule="nonzero">
+            <g id="Group-3" transform="translate(287.000000, 211.000000)">
+                <g id="_ionicons_svg_ios-checkmark-circle-(1)" fill="#D0021B">
+                    <path d="M17.5,0 C7.83293269,0 0,7.83293269 0,17.5 C0,27.1670673 7.83293269,35 17.5,35 C27.1670673,35 35,27.1670673 35,17.5 C35,7.83293269 27.1670673,0 17.5,0 Z" id="Shape"></path>
+                </g>
+                <path d="M26.6942858,12.6708126 L15.3654562,23.7089552 C14.9840897,24.0970149 14.3335232,24.0970149 13.9521567,23.7089552 L9.28602491,19.1169154 C8.90465836,18.7288557 8.90465836,18.1252073 9.28602491,17.7371476 C9.66739145,17.3490879 10.3179579,17.3490879 10.6993244,17.7371476 L14.6700231,21.6393035 L25.3034196,11.2910448 C25.6847862,10.9029851 26.3353526,10.9029851 26.7167192,11.2910448 C27.0980857,11.6791045 27.0980857,12.2827529 26.6942858,12.6708126 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

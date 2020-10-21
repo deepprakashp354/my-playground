@@ -1,0 +1,35 @@
+{
+    "SUPER_ADMIN": {
+        "EMAIL": [
+            "xxxx@gmail.com"
+        ],
+        "ID": ""
+    },
+    "bugNotificationEmails" : [
+        "xxxxx@gmail.com"
+    ],
+    "emailConfig" : {
+        "service" : "gmail",
+        "auth" : {
+            "user" : "xxxxxxxx",
+            "pass" : "xxxxxx"
+        }
+    },
+    "apis" : {
+        "getBugs" : {
+            "method": "get",
+            "url": "http://localhost:3002/xxx/xxxx/",
+            "headers": {}
+        },
+        "updateBugs" : {
+            "method": "put",
+            "url": "http://localhost:3002/xxx/xxxx/",
+            "headers": {}
+        },
+        "createBugs" : {
+            "method": "post",
+            "url": "http://localhost:3002/xxx/xxxx/",
+            "headers": {}
+        }
+    }
+}

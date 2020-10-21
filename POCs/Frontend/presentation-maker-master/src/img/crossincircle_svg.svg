@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2crossincircle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Improvisation-on-bulletin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bulletin-church-copy" transform="translate(-500.000000, -159.000000)">
+            <g id="Group-2" transform="translate(500.000000, 159.000000)">
+                <circle id="Oval" fill="#898989" cx="10" cy="10" r="10"></circle>
+                <g id="Group" transform="translate(6.000000, 6.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                    <path d="M7.83288088,0.167113888 C7.61004826,-0.0557117616 7.24878025,-0.0556974971 7.02595761,0.167113888 L3.99999572,3.19308365 L0.974040959,0.167128153 C0.751221174,-0.0556974971 0.389953168,-0.0556974971 0.167120545,0.167128153 C-0.0557120785,0.389968067 -0.0557020934,0.751230625 0.167121971,0.974056275 L3.19307388,4.00000606 L0.16713053,7.02594729 C-0.0556906818,7.24877294 -0.0557020934,7.6100355 0.16713053,7.83287541 C0.389961727,8.05570106 0.751229732,8.0556868 0.97405237,7.83287541 L3.99999572,4.80691992 L7.02595048,7.83287541 C7.24877027,8.05570106 7.61003827,8.05571533 7.8328709,7.83287541 C8.05570209,7.61004976 8.05569211,7.24878721 7.83286947,7.02596156 L4.80691613,4.00000606 L7.83288088,0.97404201 C8.05570067,0.75121636 8.05571208,0.389953803 7.83288088,0.167113888 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

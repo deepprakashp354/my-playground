@@ -1,0 +1,6 @@
+{
+    "host" : "https://my.churchtalk.io",
+    "appName": "/apps",
+    "root" : "/api/v1",
+    "socketHost" : "https://my.churchtalk.io/"
+}

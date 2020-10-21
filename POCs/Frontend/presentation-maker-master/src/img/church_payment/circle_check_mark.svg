@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <g id="church" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="church-pricing" transform="translate(-507.000000, -817.000000)" fill-rule="nonzero">
+            <g id="pricing_card" transform="translate(381.000000, 607.000000)">
+                <g id="price_text" transform="translate(126.000000, 134.000000)">
+                    <g id="Group-6" transform="translate(0.000000, 76.000000)">
+                        <circle id="Ellipse_9" fill="#0C4F6C" cx="6" cy="6" r="6"></circle>
+                        <path d="M5.1,9 C5.00496503,8.99985882 4.91259101,8.96859917 4.837,8.911 L2.358,7.03 C2.2274648,6.9382111 2.15750297,6.78244311 2.1756021,6.62389639 C2.19370124,6.46534968 2.29696944,6.32935702 2.44483322,6.26934916 C2.59269699,6.2093413 2.7615305,6.23490637 2.885,6.336 L4.995,7.936 L8.158,3.192 C8.24255336,3.05800517 8.39314279,2.98042655 8.55133232,2.98936838 C8.70952186,2.9983102 8.85040954,3.09236487 8.91932414,3.23503464 C8.98823875,3.37770441 8.97433186,3.5465304 8.883,3.676 L5.461,8.806 C5.38018238,8.92744103 5.24387436,9.00028884 5.098,9 L5.1,9 Z" id="Path_964" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
